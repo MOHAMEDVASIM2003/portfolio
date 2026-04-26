@@ -930,7 +930,7 @@ export default function App() {
                   border: `1px solid ${T.border}`, color: T.muted,
                   fontSize: "0.78rem", fontFamily: "monospace", whiteSpace: "nowrap",
                 }}>
-                  Nov 2024 – Present
+                  Nov 2024 – Mar 2026
                 </span>
               </div>
 
